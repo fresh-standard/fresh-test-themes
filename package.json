@@ -1,0 +1,29 @@
+{
+  "name": "fresh-test-themes",
+  "version": "0.1.0",
+  "description": "Samples resume themes in FRESH and JRS formats. For testing purposes.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fresh-standard/fresh-test-themes.git"
+  },
+  "main": "README.md",
+  "keywords": [
+    "résumé",
+    "resume",
+    "CV",
+    "HackMyResume",
+    "JSON Resume",
+    "FRESH Standard",
+    "FRESCA",
+    "test"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "contributors": [
+    "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fresh-standard/fresh-test-themes/issues"
+  },
+  "homepage": "https://github.com/fresh-standard/fresh-test-themes"
+}
