@@ -1,0 +1,8 @@
+{
+  "title": "simple-custom-helper",
+  "description": "A FRESH theme demonstrating a simple custom helper. Testing purposes only.",
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "engine": "handlebars",
+  "helpers": "../../helpers/*.js",
+  "baseFolder": "."
+}
