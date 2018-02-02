@@ -1,0 +1,8 @@
+{
+  "title": "UPPERcase",
+  "description": "A FRESH theme with a capitalized title.",
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "engine": "handlebars",
+  "helpers": "../../helpers/*.js",
+  "baseFolder": "."
+}
