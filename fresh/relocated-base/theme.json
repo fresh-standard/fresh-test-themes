@@ -1,0 +1,8 @@
+{
+  "title": "relocated-base",
+  "description": "A FRESH test theme demonstrating use of the 'baseFolder` theme property.'",
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "engine": "handlebars",
+  "helpers": "../../helpers/*.js",
+  "baseFolder": "foo/bar"
+}
