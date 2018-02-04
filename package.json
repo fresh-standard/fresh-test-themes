@@ -28,6 +28,6 @@
   "homepage": "https://github.com/fresh-standard/fresh-test-themes",
   "dependencies": {
     "fresh-theme-hello-world": "^0.1.0",
-    "fresh-theme-underscore": "^0.1.0"
+    "fresh-theme-underscore": "^0.1.1"
   }
 }
